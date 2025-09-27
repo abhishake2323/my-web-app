@@ -7,7 +7,8 @@ This project demonstrates **Node.js asynchronous programming** concepts
 
 ### Install dependencies
 ```
-npm install
+npm init -y
+npm install express
 ```
 
 ### Start the server
